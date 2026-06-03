@@ -29,7 +29,7 @@ To see how works:
 2) hyperparameter predictions.
 
 ## Future projects:
-To create a model using CatBoost for category based dataset.
+To create a model using CatBoost for category based dataset and stacking models.
 
 ## Author
 Harsh
